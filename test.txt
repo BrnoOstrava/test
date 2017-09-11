@@ -1,0 +1,77 @@
+Teoretická část:
+*******************
+Rozepiš se (a u každého pojmu uveď příklad z praxe. Né kód, ale příklad třeba z reálného života. Piš co nejvíc - podle toho potom i sesmolíme životopis a všechno. Uváděj příklady ze svých koníčků atd.)
+Vysvětli pojmy:
+-Třída
+-Objekt
+-Instance
+-Algoritmus
+-Proměnná
+-Atribut
+-Parametr
+-Konstanta
+-Deklarace
+-Inicializace
+-Datový typ
+-Modifikátor přístupu
+-Statický blok
+-Operátor static
+-Klíčová slova
+-Polymorfismus
+-Dědičnost
+-Rozhraní
+-Abstraktní třída
+-Metoda
+-Přetížení
+-Přepsání
+-Konstruktor
+-Unit test
+-Automatizovaný test
+-Návrhový vzor
+-SWING nebo FX
+-Knihovny
+-Debugger
+-Vyjímky
+-Podmínky
+-Cykly
+-Pole
+-Kolekce
+-Mapa
+-Komentáře
+-Knihovna Math
+-Knihovna Random
+-Vlákna
+-Soubory a adresáře
+-SQL databáze - balík, jednoduché připojení
+-Co je to LAMP, WAMP a XAMPP?
+-Jaké jsou linuxové příkazy pro:
+	-výpis souborů a adresářů
+	-vytvoření souboru
+	-vytvoření adresáře
+	-smazání souboru/adresáře
+	-vyhledávání souboru/adresáře
+	-vyhledávání určitého kousku textu v nějakém adresáři (v adresářích)
+	-připsání nějakého textu do souboru
+	-nahrazení nějakého textu v soubouru
+	-jak se zjistí a nastaví práva v souborech
+	-jak se přepnem na super usera?
+	-jaký příkaz v linuxu existuje místo windowsovského ipconfig?
+
+Praktická část:
+*******************
+-Vytvoř program, který vypíše text na standartní výstup, vytvoří soubor a ten samý text vypíše do souboru (akorát rozdíl bude, že v souboru bude připsáno "Text v souboru" a v outputu "Text pro standartní výstup". Dále tento program bude obsahovat kalkulačkovou funkci, která sečte dvě čísla, které zadá uživatel pomocí metody.
+-Vytvoř lokální databázi, která bude mít tyto sloupce: id, znacka_auta, majitel, cena_auta. Dále třeba do texťáku napiš 5 SQL dotazů, které provedou v této databázi: SELECT, INSERT, UPDATE, SORT BY, DELETE. Co provedou, to nechám na tobě
+-Napiš 3 linuxové skripty:
+	-Skript, který obsahuje jeden cyklus, který vytvoří 10 souborů (jakkoliv si je pojmenuj)
+	-Skript, který vypíše obsah txt souboru, který si zadám jako parametr
+	-Skript, kterým najdeš a přejmenuješ soubor abcd.txt na efgh.txt (najde ho to kdekoliv, kde si ho vytvořím na disku)
+-Nappiš do texťáku základní příkazy a celkový postup verzovacího systému
+
+Bonusové otázky:
+*******************
+-Na jaké bloky můžeme rozdělovat třídy?
+-Jak hledáš a najdeš chybu v programu?
+-Jak vyřešíš chybu v programu?
+-Jaký je rozdíl mezi equals a ==?
+-Jaký je rozdíl mezi && a & (nebo || a |)?
+-Kolik existuje primitivních datových typů?
